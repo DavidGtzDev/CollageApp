@@ -1,0 +1,23 @@
+.navbar{
+    width: 100vw;
+    height: 7vh;
+    box-shadow:  0 0 10px 0 rgba(0, 0, 0, 0.2);
+    display: flex;
+    align-items: center;
+}
+
+.navbar > div{
+    margin: 10px;
+    font-weight: bolder;
+}
+
+.navbar > div > p:hover{
+    cursor: pointer;
+    color: #009dff;
+}
+
+
+
+
+
+
